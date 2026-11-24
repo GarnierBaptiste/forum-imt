@@ -21,7 +21,7 @@ const AppShowcase = () => {
       <div className="w-full">
         <div className="w-full">
           <img
-            src="/images/2026/Tous.png"
+            src="/images/2026/Tous_comp.png"
             alt={t("groupPhoto.alt")}
             className="mx-auto block h-auto max-w-full rounded-3xl shadow-lg"
             loading="lazy"

@@ -14,7 +14,7 @@ const teamSlides = [
   },
   {
     id: "logistics",
-    img: "/images/2026/Tous.png",
+    img: "/images/2026/Log_comp.png",
   },
   {
     id: "communication",
